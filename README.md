@@ -1,7 +1,13 @@
 <h1 align="center">Hi there, I'm Prishu Priyanshu Jha! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prishu2453&label=Profile%20Views&color=0e75b6&style=flat" alt="prishu2453" />
+  <img src="https://komarev.com/ghpvc/?username=prishu2453&label=Profile%20Views&color=0e75b6&style=flat-square" alt="prishu2453" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prishu-priyanshu-jha-8a2110292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ### 🚀 About Me
@@ -13,17 +19,23 @@
 ---
 
 ### 🛠️ Tech Stack & Badges
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prishu2453&show_icons=true&theme=radical" alt="prishu2453" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prishu2453&layout=compact&theme=radical" alt="prishu2453" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prishu2453&show_icons=true&theme=dark" alt="prishu2453's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prishu2453&layout=compact&theme=dark" alt="prishu2453's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prishu2453&theme=dark" alt="prishu2453's Streak" />
 </p>
 
 ---
