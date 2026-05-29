@@ -14,7 +14,7 @@
 * 🎓 Electronics and Communication Engineering student at Sir M. Visvesvaraya Institute of Technology (Sir MVIT), Bangalore.
 * 🛠️ Passionate about Software Development, AI/ML, and Embedded Systems.
 * 💡 Currently developing an AI-based Traffic Signal Control System (YOLOv3) and the KrushiConnect agricultural platform.
-* 📈 Deeply interested in fintech, automation, and semiconductor chip design.
+* 📈 Deeply interested in fintech, web development, and automation.
 
 ---
 
@@ -36,6 +36,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prishu2453&theme=dark" alt="prishu2453's Streak" />
+</p>
+
+---
+
+### 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prishu2453&theme=github-dark" alt="prishu2453's Activity Graph" width="100%" />
 </p>
 
 ---
